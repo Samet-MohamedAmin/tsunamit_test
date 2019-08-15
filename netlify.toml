@@ -1,0 +1,3 @@
+[build]
+    publish = "dist/fb"
+    command = "npm run build"
